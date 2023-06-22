@@ -61,3 +61,121 @@ Expected results: The calculator should get the number 2
 
 
 
+Test case #5: Addition with a negative number
+
+Description: Add a negative number with a positive one
+
+Steps:
+1. Open the calculator 
+2. Press the button with the "-" symbol
+3. Press the button with the number "5"
+4. Press the button with the "+" symbol
+5. Press the button with the number "4"
+6. Press the button with the "=" symbol
+
+Expected results: The calculator should get the number -1
+
+
+
+
+
+
+Test case #6: Substracting a number from a smaller number
+
+Description: Substract a number from another number which is smaller than the first one 
+
+Steps:
+1. Open the calculator 
+2. Press the button with the number "4"
+3. Press the button with the "-" symbol
+4. Press the button with the number "9"
+5. Press the button with the "=" symbol
+
+Expected results: The calculator should get the number -5
+
+
+
+
+Test case 7: Dividing a number by 0
+
+Description: Divide a number by 0
+
+Steps:
+1. Open the calculator 
+2. Press the button with the number "5"
+3. Press the button with the "/" symbol
+4. Press the button with the number "0"
+5. Press the button with the "=" symbol
+
+Expected results: The calculator should show an error message that would indicate that you cannot divide by zero
+
+
+
+Test case 8: Dividing 0 by a number
+
+Description: Divide 0 by another number
+
+Steps:
+1. Open the calculator 
+2. Press the button with the number "0"
+3. Press the button with the "/" symbol
+4. Press the button with the number "5"
+5. Press the button with the "=" symbol
+
+Expected results: The calculator should show "0" as the result
+
+
+
+
+Test case #9: Big number multiplication
+
+Description: Multiply two very big numbers
+
+Steps:
+1. Open the calculator 
+2. Press the button with the number "9" ten times
+3. Press the button with the "*" symbol
+4. Press the button with the number "9" ten times
+5. Press the button with the "=" symbol
+
+Expected results: The calculator should show scientific notation
+
+
+Test case #10: Multiple operations
+
+Description: Write all the different operations before requesting from the calculator to show the final result
+
+Steps:
+1. Open the calculator 
+2. Write the number "25"
+3. Press the button with the "*" symbol
+4. Write the number "6"
+5. Press the button with the "-" symbol
+6. Write the number "3"
+7. Press the button with the "+" symbol
+8. Write the number "9"
+9. Press the button with the "/" symbol
+10. Write the number "2"
+11. Press the button with the "=" symbol
+
+Expected results: The calculator should show "151.5"
+
+
+
+Test case #11: Offline calculator
+
+Description: Open the calculator then stop the internet access of the device
+
+Steps:
+1. Open the calculator 
+2. Stop the internet access of the device
+3. Perform basic addition
+4. Perform basic substraction
+5. Perform basic multiplication
+6. Perform basic division
+
+Expected results: The calculator should still be able to calculate the requested operations
+
+
+
+

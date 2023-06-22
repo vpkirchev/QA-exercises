@@ -1,0 +1,63 @@
+Test case #1: Basic addition
+
+Description: Add two numbers with the addition operation
+
+Steps:
+1. Open the calculator 
+2. Press the button with the number "5"
+3. Press the button with the "+" symbol
+4. Press the button with the number "4"
+5. Press the button with the "=" symbol
+
+Expected results: The calculator should get the number 9
+
+
+
+Test case #2: Basic substraction
+
+Description: Substract one number from another
+
+Steps:
+1. Open the calculator 
+2. Press the button with the number "9"
+3. Press the button with the "-" symbol
+4. Press the button with the number "5"
+5. Press the button with the "=" symbol
+
+Expected results: The calculator should get the number 4
+
+
+
+
+Test case #3: Basic multiplication
+
+Description: Multiply two numbers
+
+Steps:
+1. Open the calculator 
+2. Press the button with the number "4"
+3. Press the button with the "*" symbol
+4. Press the button with the number "5"
+5. Press the button with the "=" symbol
+
+Expected results: The calculator should get the number 20
+
+
+
+
+Test case #4: Basic division
+
+Description: Divide one number by another
+
+Steps:
+1. Open the calculator 
+2. Press the button with the number "6"
+3. Press the button with the "/" symbol
+4. Press the button with the number "3"
+5. Press the button with the "=" symbol
+
+Expected results: The calculator should get the number 2
+
+
+
+

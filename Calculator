@@ -1,4 +1,4 @@
-Test case #1: Basic addition
+**Test case #1: Basic addition**
 
 Description: Add two numbers with the addition operation
 
@@ -13,7 +13,7 @@ Expected results: The calculator should get the number 9
 
 
 
-Test case #2: Basic substraction
+**Test case #2: Basic substraction**
 
 Description: Substract one number from another
 
@@ -29,7 +29,7 @@ Expected results: The calculator should get the number 4
 
 
 
-Test case #3: Basic multiplication
+**Test case #3: Basic multiplication**
 
 Description: Multiply two numbers
 
@@ -45,7 +45,7 @@ Expected results: The calculator should get the number 20
 
 
 
-Test case #4: Basic division
+**Test case #4: Basic division**
 
 Description: Divide one number by another
 
@@ -61,7 +61,7 @@ Expected results: The calculator should get the number 2
 
 
 
-Test case #5: Addition with a negative number
+**Test case #5: Addition with a negative number**
 
 Description: Add a negative number with a positive one
 
@@ -80,7 +80,7 @@ Expected results: The calculator should get the number -1
 
 
 
-Test case #6: Substracting a number from a smaller number
+**Test case #6: Substracting a number from a smaller number**
 
 Description: Substract a number from another number which is smaller than the first one 
 
@@ -96,7 +96,7 @@ Expected results: The calculator should get the number -5
 
 
 
-Test case 7: Dividing a number by 0
+**Test case 7: Dividing a number by 0**
 
 Description: Divide a number by 0
 
@@ -111,7 +111,7 @@ Expected results: The calculator should show an error message that would indicat
 
 
 
-Test case 8: Dividing 0 by a number
+**Test case 8: Dividing 0 by a number**
 
 Description: Divide 0 by another number
 
@@ -127,7 +127,7 @@ Expected results: The calculator should show "0" as the result
 
 
 
-Test case #9: Big number multiplication
+**Test case #9: Big number multiplication**
 
 Description: Multiply two very big numbers
 
@@ -141,7 +141,7 @@ Steps:
 Expected results: The calculator should show scientific notation
 
 
-Test case #10: Multiple operations
+**Test case #10: Multiple operations**
 
 Description: Write all the different operations before requesting from the calculator to show the final result
 
@@ -162,7 +162,27 @@ Expected results: The calculator should show "151.5"
 
 
 
-Test case #11: Offline calculator
+**Test case #11: Decimals**
+
+Description: Add two decimal numbers with the addition operation
+
+Steps:
+1. Open the calculator 
+2. Press the button with the number "7"
+3. Press the button with the "." symbol
+4. Press the button with the number "4"
+5. Press the button with the "+" symbol
+6. Press the button with the number "6"
+7. Press the button with the "." symbol
+8. Press the button with the number "3"
+9. Press the button with the "=" symbol
+
+Expected results: The calculator should get the number 13.7
+
+
+
+
+**Test case #12: Offline calculator**
 
 Description: Open the calculator then stop the internet access of the device
 
@@ -181,7 +201,7 @@ Expected results: The calculator should still be able to calculate the requested
 // Additional test cases in case you are using keyboard to write and not clicking on the calculator's buttons with the mouse:
 
 
-Test case #12: Test letters
+**Test case #13: Test letters**
 
 Description: Open the calculator then try to write letters instead of numbers in it
 

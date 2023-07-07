@@ -178,4 +178,17 @@ Expected results: The calculator should still be able to calculate the requested
 
 
 
+// Additional test cases in case you are using keyboard to write and not clicking on the calculator's buttons with the mouse:
+
+
+Test case #12: Test letters
+
+Description: Open the calculator then try to write letters instead of numbers in it
+
+Steps:
+1. Open the calculator 
+2. Press any letter key on the keyboard
+
+
+Expected results: The calculator should not react to the letters
 

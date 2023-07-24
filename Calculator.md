@@ -181,8 +181,24 @@ Expected results: The calculator should get the number 13.7
 
 <br><br>
 
+<b>Test case #12: Repeating decimals</b>
 
-<b>Test case #12: Offline calculator</b>
+Description: Dividing when the expected result would be a non-terminating repeating decimal
+
+Steps:
+1. Open the calculator 
+2. Press the button with the number "1"
+3. Press the button with the "/" symbol
+4. Press the button with the number "3"
+5. Press the button with the "=" symbol
+
+Expected results: The calculator should get the number 0.333333
+
+<br><br>
+
+
+
+<b>Test case #13: Offline calculator</b>
 
 Description: Open the calculator then stop the internet access of the device
 
@@ -201,7 +217,7 @@ Expected results: The calculator should still be able to calculate the requested
 <i> Additional test cases in case you are using keyboard to write and not clicking on the calculator's buttons with the mouse:</i>
 <br><br>
 
-<b>Test case #13: Test letters</b>
+<b>Test case #14: Test letters</b>
 
 Description: Open the calculator then try to write letters instead of numbers in it
 

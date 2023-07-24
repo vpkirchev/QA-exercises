@@ -1,4 +1,4 @@
-<b>Test case #1: Basic addition</b>
+<p><b>Test case #1: Basic addition</b>
 
 Description: Add two numbers with the addition operation
 
@@ -10,10 +10,10 @@ Steps:
 5. Press the button with the "=" symbol
 
 Expected results: The calculator should get the number 9
+</p><br><br>
 
 
-
-**Test case #2: Basic substraction**
+<p><b>Test case #2: Basic substraction</b>
 
 Description: Substract one number from another
 
@@ -25,11 +25,11 @@ Steps:
 5. Press the button with the "=" symbol
 
 Expected results: The calculator should get the number 4
+</p>
+<br><br>
 
 
-
-
-**Test case #3: Basic multiplication**
+<b>Test case #3: Basic multiplication</b>
 
 Description: Multiply two numbers
 
@@ -42,10 +42,10 @@ Steps:
 
 Expected results: The calculator should get the number 20
 
+<br><br>
 
 
-
-**Test case #4: Basic division**
+<b>Test case #4: Basic division</b>
 
 Description: Divide one number by another
 
@@ -58,10 +58,10 @@ Steps:
 
 Expected results: The calculator should get the number 2
 
+<br><br>
 
 
-
-**Test case #5: Addition with a negative number**
+<b>Test case #5: Addition with a negative number</b>
 
 Description: Add a negative number with a positive one
 
@@ -77,10 +77,10 @@ Expected results: The calculator should get the number -1
 
 
 
+<br><br>
 
 
-
-**Test case #6: Substracting a number from a smaller number**
+<b>Test case #6: Substracting a number from a smaller number</b>
 
 Description: Substract a number from another number which is smaller than the first one 
 
@@ -93,10 +93,10 @@ Steps:
 
 Expected results: The calculator should get the number -5
 
+<br><br>
 
 
-
-**Test case 7: Dividing a number by 0**
+<b>Test case 7: Dividing a number by 0</b>
 
 Description: Divide a number by 0
 
@@ -109,9 +109,9 @@ Steps:
 
 Expected results: The calculator should show an error message that would indicate that you cannot divide by zero
 
+<br><br>
 
-
-**Test case 8: Dividing 0 by a number**
+<b>Test case 8: Dividing 0 by a number</b>
 
 Description: Divide 0 by another number
 
@@ -124,10 +124,10 @@ Steps:
 
 Expected results: The calculator should show "0" as the result
 
+<br><br>
 
 
-
-**Test case #9: Big number multiplication**
+<b>Test case #9: Big number multiplication</b>
 
 Description: Multiply two very big numbers
 
@@ -139,9 +139,9 @@ Steps:
 5. Press the button with the "=" symbol
 
 Expected results: The calculator should show scientific notation
+<br><br>
 
-
-**Test case #10: Multiple operations**
+<b>Test case #10: Multiple operations</b>
 
 Description: Write all the different operations before requesting from the calculator to show the final result
 
@@ -160,9 +160,9 @@ Steps:
 
 Expected results: The calculator should show "151.5"
 
+<br><br>
 
-
-**Test case #11: Decimals**
+<b>Test case #11: Decimals</b>
 
 Description: Add two decimal numbers with the addition operation
 
@@ -179,10 +179,10 @@ Steps:
 
 Expected results: The calculator should get the number 13.7
 
+<br><br>
 
 
-
-**Test case #12: Offline calculator**
+<b>Test case #12: Offline calculator</b>
 
 Description: Open the calculator then stop the internet access of the device
 
@@ -196,12 +196,12 @@ Steps:
 
 Expected results: The calculator should still be able to calculate the requested operations
 
+<br><br>
 
+<i> Additional test cases in case you are using keyboard to write and not clicking on the calculator's buttons with the mouse:</i>
+<br><br>
 
-// Additional test cases in case you are using keyboard to write and not clicking on the calculator's buttons with the mouse:
-
-
-**Test case #13: Test letters**
+<b>Test case #13: Test letters</b>
 
 Description: Open the calculator then try to write letters instead of numbers in it
 

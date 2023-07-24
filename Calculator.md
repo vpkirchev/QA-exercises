@@ -1,3 +1,5 @@
+<i><u> Write test cases to test a very simple calculator. It is web based and supports the 4 basic operations: addition, subtraction, multiplication, division.</u></i>
+<br><br>
 <p><b>Test case #1: Basic addition</b>
 
 Description: Add two numbers with the addition operation
